@@ -10,51 +10,52 @@ AOAI (Artificial Orientation using Artificial Intelligence) is a project that we
 
 We have developed an AI model that powers AOAI. You can find the code for this model in our dedicated repository.
 
-🔗 [AI Model Repository](https://github.com/KAAS/aoai-model)
+🔗 [AI Model Repository](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/tree/main/AOAI-Model)
+
+🔗 [AI Training Repository](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/tree/main/AOAI-Training)
 
 ### 💻 Back-end and Front-end
 
 We have developed the back-end and front-end of AOAI using Javascript (Node, Express and React). You can find the code for these components in our dedicated repositories.
 
-- 🔗 [Back-end Repository](https://github.com/KAAS/aoai-backend)
-- 🔗 [Front-end Repository](https://github.com/KAAS/aoai-frontend)
+- 🔗 [Back-end Repository](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/tree/main/AOAI_Backend_With_Docker)
+- 🔗 [Front-end Repository](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/tree/main/AOAI_Frontend)
 
 ### 📋 Reports
 
 We have submitted two reports as part of our participation in the "Envision the Future" competition. You can find these reports below.
 
-- 📄 [Report 1](https://www.example.com/report1.pdf)
-- 📄 [Report 2](https://www.example.com/report2.pdf)
+- 📄 [First Report](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/blob/main/First%20Report.pdf)
+- 📄 [Interim Report](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/blob/main/Interim%20Report.pdf)
 
-### 📹 Video Presentation
+### 🎥 Video Presentation
 
-We have created a video presentation to showcase AOAI and its features. You can find this video on this link.
+Watch our video presentation to learn more about our project.
 
-🔗 [Video Presentation](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+🔗[AOAI - Artificial Orientation using Artificial Intelligence](https://www.youtube.com/watch?v=oytv-_WaQ8A&ab_channel=TarikAmri)
 
-### 🎥 Website Presentation
 
-We have created a website to showcase AOAI and its features. You can find a video presentation of this website on this link.
-
-🔗 [Website Presentation](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+![home](https://user-images.githubusercontent.com/55410084/232163089-cd23c71c-2f5c-44c4-b49f-fb0b86cbd72e.png)]
 
 ## 🌐 Website
 
 Visit our website to see the live demo of AOAI and learn more about our project.
 
-🔗 [AOAI Website](https://www.example.com)
+🔗 [AOAI Website](https://int-aoai.netlify.app/)
+
+https://user-images.githubusercontent.com/55410084/232162793-4e22e622-afd4-45a1-80a1-ffdbb396e3ab.mp4
 
 ### 📷 Poster
 
 We have created a poster to promote AOAI during the final stage of the "Envision the Future" competition. You can find this poster below.
 
-- 🖼️ [Poster Image](https://www.example.com/poster.png)
+![Poster](https://user-images.githubusercontent.com/55410084/232162856-f982482f-9b03-48a1-ad89-cbd35b823f5a.jpg)
 
 ### 📰 University Publication
 
 Our university ENSAM Casablanca has published an article on its official website to celebrate our achievement in the "Envision the Future" competition. You can find this article below.
 
-- 📰 [University Publication](https://www.example.com/ensam-news)
+- 📰 [University Publication](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/blob/main/COMMUNIQU%C3%89S%20OFFICIELS.html)
 
 
 ## 📞 Contact Us
