@@ -35,7 +35,7 @@ Watch our video presentation to learn more about our project.
 🔗[AOAI - Artificial Orientation using Artificial Intelligence](https://www.youtube.com/watch?v=oytv-_WaQ8A&ab_channel=TarikAmri)
 
 
-![home](https://user-images.githubusercontent.com/55410084/232163089-cd23c71c-2f5c-44c4-b49f-fb0b86cbd72e.png)]
+![home](https://user-images.githubusercontent.com/55410084/232163089-cd23c71c-2f5c-44c4-b49f-fb0b86cbd72e.png)
 
 ## 🌐 Website
 
