@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AOAI</title>
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div style="min-height: 100vh; margin: 0">
+      <ul class="sidenav grey darken-4" id="mobile-demo" style="width: 60vw">
+        <li><a class="pritext" href="#">Contact</a></li>
+        <li><a class="pritext" href="#">About</a></li>
+      </ul>
+      <div class="navbar-fixed" style="min-height: 50px">
+        <nav
+          class="transparent blurring"
+          style="
+            border-color: var(--primary);
+            border-bottom-style: solid;
+            border-width: 1px;
+          "
+        >
+          <div class="tisa3"></div>
+          <div class="nav-wrapper">
+            <a href="#" data-target="mobile-demo" class="sidenav-trigger"
+              ><i class="material-icons pritext">menu</i></a
+            >
+            <b>
+              <a
+                style="margin-left: 20px; font-size: 1.5em"
+                class="pritext"
+                href="#"
+                class="brand-logo"
+                >AOAI</a
+              ></b
+            >
+            <img
+              src="KaaS.png"
+              style="width: 40px; position: relative; left: 7px; top: 6px"
+            />
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+              <li>
+                <b
+                  ><a style="margin-right: 20px" class="pritext" href="#"
+                    >About</a
+                  >
+                </b>
+              </li>
+              <li>
+                <b
+                  ><a style="margin-right: 20px" class="pritext" href="#"
+                    >Contact</a
+                  ></b
+                >
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+      <div id="intro">
+        <div class="row">
+          <div class="col s12" style="margin-top: 15vh">
+            <h2 class="neon sectext center-align" style="font-weight: 600">
+              ACADEMIC ORIENTATION HAS NEVER BEEN SO SIMPLE
+            </h2>
+          </div>
+          <div class="col s0 m3"></div>
+          <div class="col s12 m6">
+            <h5 class="neon sectext center-align">
+              AOAI: Academic Orientation with Artificial Intelligence uses your
+              grades and the previous students grades to determine the best
+              choice for you
+            </h5>
+          </div>
+          <div class="col s0"></div>
+          <div class="col s12" style="margin-top: 7vh">
+            <hr />
+          </div>
+          <div class="col s12 center-align" style="margin-top: 7vh">
+            <button
+              id="button"
+              style="border-radius: 30px"
+              class="waves-effect waves-light btn-large priback"
+            >
+              Start <i class="material-icons right">send</i>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div id="form1" class="fadeInUp" style="display: none">
+        <div class="row">
+          <div class="col s12">
+            <h2 class="neon sectext center-align" style="font-weight: 600">
+              Fill the field below
+            </h2>
+          </div>
+          <div class="col s0 m3"></div>
+          <div style="margin-top: 15vh" class="col s12 m6">
+            <div class="row">
+              <div class="col s12 m3">
+                <h4 class="neon sectext center-align">Student id</h4>
+              </div>
+              <div class="col s0 m0"></div>
+              <div class="col s10 m8">
+                <input
+                  required
+                  id="stylish"
+                  class="blurring sectext neon stylish"
+                  type="text"
+                />
+              </div>
+            </div>
+          </div>
+          <div class="col s0"></div>
+          <div class="col s12 center-align" style="margin-top: 15vh">
+            <button
+              id="button2"
+              style="border-radius: 30px"
+              class="waves-effect waves-light btn-large priback"
+            >
+              Submit <i class="material-icons right">send</i>
+            </button>
+            <div
+              class="lds-ripple"
+              id="loader"
+              style="display: none; transform: scale(1.5)"
+            >
+              <div></div>
+              <div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="stats" class="fadeInUp" style="display: none">
+        <div class="row">
+          <div class="col s12">
+            <h2 class="neon sectext center-align" style="font-weight: 600">
+              choisis une filliere pour une analyse approfondie !
+            </h2>
+          </div>
+          <div class="container">
+            <div class="col s12" style="margin-top: 10vh">
+              <ul
+                class="collapsible sblurring sectext xneon"
+                style="
+                  background-color: rgba(236, 236, 236, 0.3);
+                  border-color: var(--primary);
+                  border-width: 3px;
+                  border-radius: 6px;
+                "
+              >
+                <li>
+                  <div
+                    class="collapsible-header collap transparent"
+                    style="font-weight: 700; font-size: 1.3em"
+                  >
+                    <span style="margin: auto">Mechanical Engineering</span>
+                    <span style="margin: auto" id="gm">60%</span>
+                  </div>
+                  <div class="collapsible-body collap">
+                    <span id="gm-demo"
+                      >Mechanical Engineering is a versatile and
+                      interdisciplinary field that includes everything from nano
+                      engineering at the smallest scales – down to
+                      one-thousandth the size of a human hair – to the biggest
+                      systems, such as those for large-scale manufacturing or
+                      water desalination. We bring our signature passion,
+                      creativity, and rigor to bear on the world’s greatest
+                      challenges, for example energy engineering or robotic
+                      engineering.
+                    </span>
+                    <div class="center-align" style="margin-top: 3vh">
+                      <button
+                        id="bgm"
+                        style="border-radius: 30px"
+                        class="waves-effect waves-light btn-large priback"
+                      >
+                        Analysis <i class="material-icons right">search</i>
+                      </button>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div
+                    class="collapsible-header collap transparent"
+                    style="font-weight: 700; font-size: 1.3em"
+                  >
+                    <span style="margin: auto">Industrial Engineering</span>
+                    <span style="margin: auto" id="gi">60%</span>
+                  </div>
+                  <div class="collapsible-body collap">
+                    <span id="gi-demo"
+                      >Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                      Culpa voluptatum harum corrupti voluptates ut accusamus
+                      voluptatem unde iusto aliquid molestias, deleniti odit
+                      consectetur doloribus nostrum ipsam consequuntur fuga,
+                      aliquam quibusdam!</span
+                    >
+                    <div class="center-align" style="margin-top: 3vh">
+                      <button
+                        id="bgi"
+                        style="border-radius: 30px"
+                        class="waves-effect waves-light btn-large priback"
+                      >
+                        Analysis <i class="material-icons right">search</i>
+                      </button>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div
+                    class="collapsible-header collap transparent"
+                    style="font-weight: 700; font-size: 1.3em"
+                  >
+                    <span style="margin: auto">Electrical Engineering</span>
+                    <span style="margin: auto" id="ge">60%</span>
+                  </div>
+                  <div class="collapsible-body collap">
+                    <span id="ge-demo"
+                      >Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                      Culpa voluptatum harum corrupti voluptates ut accusamus
+                      voluptatem unde iusto aliquid molestias, deleniti odit
+                      consectetur doloribus nostrum ipsam consequuntur fuga,
+                      aliquam quibusdam!</span
+                    >
+                    <div class="center-align" style="margin-top: 3vh">
+                      <button
+                        id="bge"
+                        style="border-radius: 30px"
+                        class="waves-effect waves-light btn-large priback"
+                      >
+                        Analysis <i class="material-icons right">search</i>
+                      </button>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="form2" class="fadeInUp" style="display: none">
+        <h2 class="neon sectext center-align" style="font-weight: 600">
+          Fill the fields below
+        </h2>
+        <div
+          style="
+            margin-top: 7vh;
+            margin-bottom: 5vh;
+            margin-left: 5vw;
+            margin-left: 5vw;
+          "
+          class="blurring pform center-align"
+        >
+          <div class="row left-align" id="pform"></div>
+          <button
+            id="button8"
+            style="border-radius: 30px; margin-top: 5vh"
+            class="waves-effect waves-light btn-large priback"
+          >
+            Submit <i class="material-icons right">send</i>
+          </button>
+        </div>
+      </div>
+    </div>
+    <footer class="page-footer fix-bot black">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <h5 class="pritext">Site en cours de construction</h5>
+            <p class="sectext">ha sbrou 3lina mazalin ka n3mrou hihi</p>
+          </div>
+          <div class="col l4 offset-l2 s12">
+            <h5 class="pritext">social media</h5>
+            <ul>
+              <li><a class="sectext" href="#!">whatsapp</a></li>
+              <li><a class="sectext" href="#!">facebook</a></li>
+              <li><a class="sectext" href="#!">discord</a></li>
+              <li><a class="sectext" href="#!">twitter </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+          © 2021 Copyright
+          <a class="sectext right" href="#!">More Links</a>
+        </div>
+      </div>
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>

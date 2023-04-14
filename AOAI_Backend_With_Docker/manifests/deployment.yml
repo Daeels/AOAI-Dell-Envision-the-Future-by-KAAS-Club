@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "aoai-2827"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "aoai-2827"
+  template:
+    metadata:
+      labels:
+        app: "aoai-2827"
+    spec:
+      containers:
+        - name: "aoai-2827"
+          image: "aoairegistry.azurecr.io/aoai"
+          ports:
+          - containerPort: 3000
