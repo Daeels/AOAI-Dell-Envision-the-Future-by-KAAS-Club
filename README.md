@@ -30,7 +30,7 @@ We have submitted two reports as part of our participation in the "Envision the 
 
 ### 🎥 Video Presentation
 
-Watch our video presentation to learn more about our project.
+Watch our video presentation to learn more about our project. Link below.
 
 🔗[AOAI - Artificial Orientation using Artificial Intelligence](https://www.youtube.com/watch?v=oytv-_WaQ8A&ab_channel=TarikAmri)
 
