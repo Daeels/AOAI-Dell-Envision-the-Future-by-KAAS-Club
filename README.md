@@ -18,7 +18,7 @@ We have developed an AI model that powers AOAI. You can find the code for this m
 
 We have developed the back-end and front-end of AOAI using Javascript (Node, Express and React). You can find the code for these components in our dedicated repositories.
 
-- 🔗 [Back-end Repository](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/tree/main/AOAI_Backend_With_Docker)
+- 🔗 [Back-end Repository (Azure free ended, backend disabled) ](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/tree/main/AOAI_Backend_With_Docker)
 - 🔗 [Front-end Repository](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/tree/main/AOAI_Frontend)
 
 ### 📋 Reports
@@ -41,7 +41,7 @@ Watch our video presentation to learn more about our project. Link below.
 
 Visit our website to see the live demo of AOAI and learn more about our project.
 
-🔗 [AOAI Website](https://int-aoai.netlify.app/)
+🔗 [AOAI Website (Azure free ended, backend disabled)](https://int-aoai.netlify.app/)
 
 https://user-images.githubusercontent.com/55410084/232162793-4e22e622-afd4-45a1-80a1-ffdbb396e3ab.mp4
 
