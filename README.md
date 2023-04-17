@@ -53,9 +53,9 @@ We have created a poster to promote AOAI during the final stage of the "Envision
 
 ### 📰 University Publication
 
-Our university ENSAM Casablanca has published an article on its official website to celebrate our achievement in the "Envision the Future" competition. You can find this article below.
+Our university ENSAM Casablanca has published an article on its official website to celebrate our achievement in the "Envision the Future" competition. You can find this publication below.
 
-- 📰 [University Publication](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/blob/main/COMMUNIQU%C3%89S%20OFFICIELS.html)
+![FireShot Capture 042 - COMMUNIQUÉS OFFICIELS - ](https://user-images.githubusercontent.com/55410084/232572805-57f782f9-4e3b-41d7-ab7a-10392f231900.png)
 
 
 ## 📞 Contact Us
