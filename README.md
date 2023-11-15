@@ -8,7 +8,7 @@ AOAI (Artificial Orientation using Artificial Intelligence) is a project that we
 
 ### 🔍 AI Model
 
-We have developed an AI model that powers AOAI. You can find the code for this model in our dedicated repository.
+We have developed an AI model that powers AOAI. You can find the code for this model in our dedicated repository .
 
 🔗 [AI Model Repository](https://github.com/Daeels/AOAI-Dell-Envision-the-Future-by-KAAS-Club/tree/main/AOAI-Model)
 
