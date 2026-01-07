@@ -1,6 +1,6 @@
 # 🚀 AOAI - Dell Envision the Future by KAAS Club
  
-AOAI (Artificial Orientation using Artificial Intelligence) is a project that we developed as part of our participation in the ["Envision the Future" competition](https://emcenvisionthefuture.com/) organized by Dell EMC. We are proud to have reached the final stage among 100 projects, representing our university [ENSAM Casablanca](http://ensam-casa.ma/) through our club called [KAAS (Knowledge As A Service)](https://github.com/Daeels/KAAS_Club)
+AOAI (Academic Orientation using Artificial Intelligence) is a project that we developed as part of our participation in the ["Envision the Future" competition](https://emcenvisionthefuture.com/) organized by Dell EMC. We are proud to have reached the final stage among 100 projects, representing our university [ENSAM Casablanca](http://ensam-casa.ma/) through our club called [KAAS (Knowledge As A Service)](https://github.com/Daeels/KAAS_Club)
 
 ![Screenshot](compet_logo.png)
 
@@ -72,3 +72,4 @@ We would like to thank Dell EMC for organizing this competition and providing us
 ## 📝 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify this project as per the license terms.
+
